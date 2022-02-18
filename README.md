@@ -1,2 +1,2 @@
-# bing-walp-linux
+# BING WALLPAPER FOR LINUX
 Bing Wallpaper For Linux
