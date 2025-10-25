@@ -1,8 +1,8 @@
 import time
 import requests
 import json
-from PySide2 import QtWidgets, QtUiTools, QtGui, QtCore
-from PySide2.QtWidgets import QDialog
+from PySide6 import QtWidgets, QtUiTools, QtGui, QtCore
+from PySide6.QtWidgets import QDialog
 import sys
 import os
 import urllib
